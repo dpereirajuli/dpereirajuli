@@ -124,10 +124,9 @@ Atualmente, estou focado em aprender e aprimorar minhas habilidades em:
 - AI
 <p/>
 
-
 ### 📊 Estatísticas de meus repositorios ##
 
-
+<p>
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -142,6 +141,4 @@ Atualmente, estou focado em aprender e aprimorar minhas habilidades em:
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpereirajuli&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
 />
-
-
-##Feito com ❤️ por Daniel Julião 👋
+<p/>
