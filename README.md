@@ -9,9 +9,8 @@ Sou apaixonado por tecnologia e adoro compartilhar conhecimento. Aqui no GitHub,
 - 🌍 **Localização:** São Paulo, Brasil
 - 🎯 **Objetivo:** Inspirar e capacitar futuros desenvolvedores através da educação e do compartilhamento de conhecimento
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/seu-usuario)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliaodaniel/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danyelpj412@gmail.com)
 
 ---
 
